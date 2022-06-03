@@ -2,7 +2,7 @@
   <h3 align="center"> Estudante de Progamação </h3>
 
 
-- 🌱 Estudando **Progamação Web(Java Script/PHP/MYSQL), Banco de Dados, Redes de Computadores e Design.**
+- 🌱 Estudando **Progamação Web, Banco de Dados, Redes de Computadores e Design.**
 - 😄 Pronomes: ele/dele
 - 📳 Número de telefone:  **(85) 98591-1360**
 
