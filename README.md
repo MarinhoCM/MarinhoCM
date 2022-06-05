@@ -5,7 +5,8 @@
 - 📚 Estudando **Progamação Web, Banco de Dados, Redes de Computadores e Design.**
 - 😄 Pronomes: ele/dele
 - 📳 Número de telefone:  **(85) 98562-7943**
-
+<br>
+<br>
 <div align = "center"> 
 <a href="https://github.com/MarinhoCM/"> 
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=MarinhoCM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" /> 
