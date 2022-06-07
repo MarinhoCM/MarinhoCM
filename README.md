@@ -1,5 +1,5 @@
 ### <h1 align="center">Olá! eu sou Cauã Marinho  👋
-  <h3 align="center"> Estudante de Progamação </h3>
+  <h3 align="center">Front-end Developer</h3>
 
 
 - 📚 Estudando **Progamação Web, Banco de Dados, Redes de Computadores e Design.**
