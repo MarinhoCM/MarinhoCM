@@ -3,7 +3,7 @@
 
 
 - 📚 Estudando **Progamação Web, Banco de Dados, Redes de Computadores e Design.**
-- 😃 Sobre mim: Sou dedicado, disciplinado, curioso, comunicativo e gosto de enfrentar desafios.
+- 😃 Sobre mim: **dedicado, disciplinado, curioso, comunicativo e gosto de enfrentar desafios.**
 - 📳 Número de telefone:  **(85) 98562-7943**
 <br>
 <br>
