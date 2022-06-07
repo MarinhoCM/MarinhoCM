@@ -3,7 +3,6 @@
 
 
 - 📚 Estudando **Progamação Web, Banco de Dados, Redes de Computadores e Design.**
-- 😄 Pronomes: ele/dele
 - 📳 Número de telefone:  **(85) 98562-7943**
 <br>
 <br>
