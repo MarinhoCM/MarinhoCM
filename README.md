@@ -29,7 +29,7 @@
 <a href=""> <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"target =" _ blank "></a> 
 <a href=""> <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"target =" _ blank "></a> 
 <br>
-<h2>IDE's que Utilizo
+<h2>Ferramentas que Utilizo
 <br>
 <br>
 <a href=""> <img src = "https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"target =" _ blank "></a> 
