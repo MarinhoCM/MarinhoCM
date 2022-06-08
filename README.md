@@ -7,10 +7,12 @@
 - 📳 Número de telefone:  **(85) 98562-7943**
 <br>
 <br>
-<div align = "center"> 
-<a href="https://github.com/MarinhoCM/"> 
-<img height = "166em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarinhoCM&layout=compact&langs_count=7&theme=tokyonight" />
-</div> 
+<p align="center">
+	<a href="https://github.com/MarinhoCM/"> 
+	<img height = "166em" src = "https://github-readme-stats.vercel.app/api?username=MarinhoCM&layout=show_icons=true&theme=tokyonight"/>
+	<a href="https://github.com/MarinhoCM/"> 
+	<img height = "166em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarinhoCM&layout=compact&langs_count=7&theme=tokyonight" />
+</p> 
 <br>
 <div align="center">
   <a href="https://www.instagram.com/cauamarinho0/" target="_blank"> 
