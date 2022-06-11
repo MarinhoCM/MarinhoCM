@@ -1,21 +1,13 @@
 ### <h1 align="center">Olá! eu sou Cauã Marinho  👋
   <h3 align="center">Front-end Developer</h3>
-
-<p align="left">
-<li>
- 📚 Estudando <strong>Progamação Web, Banco de Dados, Redes de Computadores e Design.</strong>
-</li>
-</p>
-<p align = "left">
-<li>
- 😃 Sobre mim: <strong>Sou dedicado, disciplinado, curioso, comunicativo e gosto de enfrentar desafios.</strong>
-</li>
-</p>
-<p align = "left">
-<li>
-📳 Número de telefone: <strong>(85) 98562-7943</strong>
-</li>
-</p>
+<details>
+    <summary>📚 Estudando: </summary><br/>
+    <p align = "left"><strong>Progamação Web, Banco de Dados, Redes de Computadores e Design.</strong></p>
+</details>
+<details>
+    <summary>😃 Sobre mim:  </summary><br/>
+    	<p align = "left"><strong>Sou dedicado, disciplinado, curioso, comunicativo e gosto de enfrentar desafios.</strong></p>
+</details>
 <br>
 <br>
 <p align="center">
