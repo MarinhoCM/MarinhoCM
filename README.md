@@ -1,17 +1,28 @@
 ### <h1 align="center">Olá! eu sou Cauã Marinho  👋
   <h3 align="center">Front-end Developer</h3>
 
-
-- 📚 Estudando **Progamação Web, Banco de Dados, Redes de Computadores e Design.**
-- 😃 Sobre mim: **Sou dedicado, disciplinado, curioso, comunicativo e gosto de enfrentar desafios.**
-- 📳 Número de telefone:  **(85) 98562-7943**
+<p align="left">
+<li>
+ 📚 Estudando <strong>Progamação Web, Banco de Dados, Redes de Computadores e Design.</strong>
+</li>
+</p>
+<p align = "left">
+<li>
+ 😃 Sobre mim: <strong>Sou dedicado, disciplinado, curioso, comunicativo e gosto de enfrentar desafios.</strong>
+</li>
+</p>
+<p align = "left">
+<li>
+📳 Número de telefone: <strong>(85) 98562-7943</strong>
+</li>
+</p>
 <br>
 <br>
 <p align="center">
 	<a href="https://github.com/MarinhoCM/"> 
-	<img height = "166em" src = "https://github-readme-stats.vercel.app/api?username=MarinhoCM&layout=show_icons=true&theme=tokyonight"/>
+	<img height = "166em" src = "https://github-readme-stats.vercel.app/api?username=MarinhoCM&layout=show_icons=true&theme=dark"/>
 	<a href="https://github.com/MarinhoCM/"> 
-	<img height = "166em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarinhoCM&layout=compact&langs_count=7&theme=tokyonight" />
+	<img height = "166em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarinhoCM&layout=compact&langs_count=7&theme=dark" />
 </p> 
 <br>
 <div align="center">
