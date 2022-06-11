@@ -16,19 +16,18 @@
 <br>
 <div align="center">
   <a href="https://www.instagram.com/cauamarinho0/" target="_blank"> 
-    <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target =" _ blank ">
+    <img height="40" width="40" src = "https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"target =" _ blank ">
   </a> 
-<a href="https://www.facebook.com/profile.php?id=100014051114835" target="_blank"> <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"target =" _ blank "></a> 
+<a href="https://www.facebook.com/profile.php?id=100014051114835" target="_blank"> <img height="40" width="40" src = "https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667"target =" _ blank "></a> 
 <a href=
    "www.linkedin.com/in/cauã-marinho-de-sousa-499a4723a" 
    target="_blank">
-  <img src = 
-     "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  <img  height="40" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
      target =" _ blank "></a> 
 <a href=
    "marinhoc384@gmail.com" target="_blank"> 
-  <img src = 
-       "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target =" _ blank ">
+  <img height="40" width="40" src = 
+       "https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667"target =" _ blank ">
 </a>
 <br>
   <h2>
@@ -36,18 +35,16 @@
   </h2>
 <br>
 <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="40" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img height="40" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<img height="40" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-<img height="40" width="60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+<img height="40" width="60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img height="40" width="60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+<img height="40" width="60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+<img height="40" width="60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <br>
-<details>
-    <summary><b><h2>Ferramentas que Utilizo</h2></b></summary><br/>
-<a href=""> <img src = "https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"target =" _ blank "></a> 
-<a href=""> <img src = "https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"target =" _ blank "></a> 
-<a href=""> <img src = "https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"target =" _ blank "></a> 
-<a href=""> <img src = "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"target =" _ blank "></a> 
-<a href=""> <img src = "https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"target =" _ blank "></a></div>
-</details>
+<b><h2>Ferramentas que Utilizo</h2></b>
+<img height="40" width="60" src = "https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667">
+<img height="40" width="60" src = "https://camo.githubusercontent.com/2149a07e09a12ecfee1e97d8a8531ff3e477868266f0ff5c1c0348cd5306bd2c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7375626c696d65746578742e737667">
+
