@@ -4,11 +4,11 @@
 </div>
 <br>
 <details>
-    <summary>📚 Estudando: </summary><br/>
+    <summary>📚 Estudando: </summary>
     <p align = "left"><strong>Progamação Web, Banco de Dados, Redes de Computadores e Design.</strong></p>
 </details>
 <details>
-    <summary>😃 Sobre mim:  </summary><br/>
+    <summary>😃 Sobre mim:  </summary>
     	<p align = "left"><strong>Sou dedicado, disciplinado, curioso, comunicativo e gosto de enfrentar desafios.</strong></p>
 </details>
 <br>
