@@ -1,5 +1,8 @@
-### <h1 align="center">Olá! eu sou Cauã Marinho  👋
-  <h3 align="center">Front-end Developer</h3><img align="center" height = "166em" style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/gif_git.gif"></img><br>
+<div align="center">
+ <h1 align="center">Olá! eu sou Cauã Marinho  👋
+  <h3 align="center">Front-end Developer</h3><img align="center" height = "200" style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/gif_git.gif"></img><br>
+</div>
+<br>
 <details>
     <summary>📚 Estudando: </summary><br/>
     <p align = "left"><strong>Progamação Web, Banco de Dados, Redes de Computadores e Design.</strong></p>
