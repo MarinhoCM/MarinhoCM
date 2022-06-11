@@ -11,6 +11,10 @@
     <summary>😃 Sobre mim:  </summary>
     	<p align = "left"><strong>Sou dedicado, disciplinado, curioso, comunicativo e gosto de enfrentar desafios.</strong></p>
 </details>
+<details>
+    <summary>❤ Gosto de: </summary>
+    	<p align = "left"><strong>Surf, Animes, Artes Maciais, Academia e Música.</strong></p>
+</details>
 <br>
 <br>
 <p align="center">
