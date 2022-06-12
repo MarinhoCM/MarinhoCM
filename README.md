@@ -1,7 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000height=180&section=header&text=Cauã Marinho de Sousa&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Ola!+Meu+nome+é+Cauã+Marinho+de+Sousa;Tenho+17+anos;Front-End+Developer;Seja+bem+vindo+ao+meu+Github!:%29)](https://git.io/typing-svg)
 <div align="center">
- <h1 align="center">Olá! eu sou Cauã Marinho  👋
-  <h3 align="center">Front-end Developer</h3><img align="center" height = "200" style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/gif_git.gif"></img><br>
+<img align="center" height = "200" style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/gif_git.gif"></img><br>
 </div>
+<br>
+<br>
 <br>
 <details>
     <summary>📚 Estudando: </summary>
@@ -56,5 +60,8 @@
 <br>
 <b><h2>Ferramentas que Utilizo</h2></b>
 <img height="40" width="60" src = "https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667">
-<img height="40" width="60" src = "https://camo.githubusercontent.com/2149a07e09a12ecfee1e97d8a8531ff3e477868266f0ff5c1c0348cd5306bd2c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7375626c696d65746578742e737667">
+<img height="40" width="60" src = "https://camo.githubusercontent.com/2149a07e09a12ecfee1e97d8a8531ff3e477868266f0ff5c1c0348cd5306bd2c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7375626c696d65746578742e737667"><br>
+
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=MarinhoCM&theme=gotham&hide_border=true&area=true)
 
