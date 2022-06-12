@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000height=180&section=header&text=Cauã Marinho de Sousa&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Ola!+Meu+nome+é+Cauã+Marinho+de+Sousa;Tenho+17+anos;Front-End+Developer;Seja+bem+vindo+ao+meu+Github!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Ola!+Meu+nome+é+Cauã+Marinho+de+Sousa;Tenho+17+anos;Front-End+Developer;Seja+bem+vindo+ao+meu+perfil!:%29)](https://git.io/typing-svg)
 <div align="center">
 <img align="center" height = "200" style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/gif_git.gif"></img><br>
 </div>
