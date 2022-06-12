@@ -35,7 +35,7 @@
   </a> 
 <a href="https://www.facebook.com/profile.php?id=100014051114835" target="_blank"> <img height="40" width="40" src = "https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667"target =" _ blank "></a> 
 <a href=
-   "www.linkedin.com/in/cauã-marinho-de-sousa-499a4723a" 
+   "https://www.linkedin.com/in/cau%C3%A3-marinho-de-sousa-499a4723a" 
    target="_blank">
   <img  height="40" width="40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
      target =" _ blank "></a> 
