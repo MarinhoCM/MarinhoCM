@@ -65,4 +65,10 @@
 
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=MarinhoCM&theme=gotham&hide_border=true&area=true)
-
+<br>
+<br>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarinhoCM}/count.svg" /></p> 
+<br></div>
+<img width=100% height="60%" src="https://capsule-render.vercel.app/api?type=waving&color=000000height=120&section=footer"/>
