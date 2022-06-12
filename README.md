@@ -29,7 +29,7 @@
 	<a href="https://github.com/MarinhoCM/"> 
 	<img height = "166em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarinhoCM&layout=compact&langs_count=7&theme=dark" />
 </p> 
-<br>
+
 <div align="center">
   <a href="https://www.instagram.com/cauamarinho0/" target="_blank"> 
     <img height="40" width="40" src = "https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"target =" _ blank ">
@@ -49,7 +49,7 @@
   <h2>
     Habilidades
   </h2>
-<br>
+
 <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img height="40" width="60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img height="40" width="60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
@@ -62,7 +62,7 @@
 <br>
 <b><h2>Ferramentas que Utilizo</h2></b>
 <img height="40" width="60" src = "https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667">
-<img height="40" width="60" src = "https://camo.githubusercontent.com/2149a07e09a12ecfee1e97d8a8531ff3e477868266f0ff5c1c0348cd5306bd2c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7375626c696d65746578742e737667"><br>
+<img height="40" width="60" src = "https://camo.githubusercontent.com/2149a07e09a12ecfee1e97d8a8531ff3e477868266f0ff5c1c0348cd5306bd2c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7375626c696d65746578742e737667"><br><br>
 
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=MarinhoCM&theme=gotham&hide_border=true&area=true)
