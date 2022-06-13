@@ -3,9 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&duration=4000&lines=Ola!+Meu+nome+é+Cauã+Marinho+de+Sousa;Tenho+17+anos;Front-End+Developer;Seja+bem+vindo+ao+meu+perfil!:%29)](https://git.io/typing-svg#gh-light-mode-only)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&duration=3000&lines=Ola!+Meu+nome+é+Cauã+Marinho+de+Sousa;Tenho+17+anos;Front-End+Developer;Seja+bem+vindo+ao+meu+perfil!:%29)](https://git.io/typing-svg#gh-dark-mode-only)
 <div align="center">
-<img align="center" height = "200" style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/gif_git.gif#gh-light-mode-only"></img>
-<img align="center" height = "200" style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/homem_letragif.gif#gh-dark-mode-only"></img>
-<br>
+<img align="center" height = "200" style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/gif_git.gif#gh-light-mode-only"></img><br>
+<img align="center" height = "200" width="220"style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/git.gif#gh-dark-mode-only"></img>
 </div>
 <br>
 <br>
