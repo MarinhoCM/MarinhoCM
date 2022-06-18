@@ -19,7 +19,7 @@
 </details>
 <details>
     <summary>❤ Gosto de: </summary>
-    	<p align = "left"><strong>Surf, Animes, Artes Maciais, Academia, Música e programação.</strong></p>
+    	<p align = "left"><strong>Surf, Animes, Artes Maciais, Academia, Música e Programação.</strong></p>
 </details>
 
 <br>
