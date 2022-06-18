@@ -60,6 +60,8 @@
 <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<img height="40" width="40" src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png"/>
+<br>
 <br>
 <b><h2>Ferramentas que Utilizo</h2></b>
 <img height="40" width="60" src = "https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667">
