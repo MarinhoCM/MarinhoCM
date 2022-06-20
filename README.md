@@ -9,19 +9,9 @@
 <br>
 <br>
 <br>
-<details>
-    <summary>📚 Estudando: </summary>
-    <p align = "left"><strong>Progamação Web, Banco de Dados, Redes de Computadores e Design.</strong></p>
-</details>
-<details>
-    <summary>😃 Sobre mim:  </summary>
-    	<p align = "left"><strong>Sou dedicado, disciplinado, curioso, comunicativo e gosto de enfrentar desafios.</strong></p>
-</details>
-<details>
-    <summary>❤ Gosto de: </summary>
-    	<p align = "left"><strong>Surf, Animes, Artes Maciais, Academia, Música e Programação.</strong></p>
-</details>
-
+    <p align = "left">📚 Estudando: <strong>Progamação Web, Banco de Dados, Redes de Computadores e Design.</strong></p>
+    <p align = "left">😃 Sobre mim: <strong>Sou dedicado, disciplinado, curioso, comunicativo e gosto de enfrentar desafios.</strong></p>
+    <p align = "left">❤ Gosto de: <strong>Surf, Animes, Artes Maciais, Academia, Música e Programação.</strong></p>
 <br>
 <br>
 <p align="center">
