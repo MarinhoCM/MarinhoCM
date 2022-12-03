@@ -1,8 +1,8 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&duration=3000&lines=Olá!+Meu+nome+é+Cauã+Marinho+de+Sousa;Tenho+18+anos;Front-End+Developer;Seja+bem+vindo+ao+meu+perfil!:%29)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&duration=3000&lines=Olá!+Meu+nome+é+Cauã+Marinho+de+Sousa;Tenho+18+anos;Front-End+Developer;Seja+bem+vindo+ao+meu+perfil!:%29)](https://git.io/typing-svg)
 <div align="center">
 <br>
-<img align="center" height = "200" width="220"style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/git.gif#gh-dark-mode-only"></img>
+<img align="center" height = "200" width="220"style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/git.gif"></img>
 </div>
 <br>
 <br>
@@ -60,9 +60,7 @@
 <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img height="40" width="60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" /><br><br>
-
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=MarinhoCM&theme=gotham&hide_border=true&area=true)
+ 
 <br>
 <br>
 <div align="center">
