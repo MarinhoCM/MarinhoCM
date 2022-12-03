@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&duration=3000&lines=Olá!+Meu+nome+é+Cauã+Marinho+de+Sousa;Tenho+18+anos;Front-End+Developer;Seja+bem+vindo+ao+meu+perfil!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&duration=3000&lines=Olá!+Meu+nome+é+Cauã+Marinho+de+Sousa;Tenho+18+anos;Back-End+Developer;Seja+bem+vindo+ao+meu+perfil!:%29)](https://git.io/typing-svg)
 <div align="center">
 <br>
 <img align="center" height = "200" width="220"style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/git.gif"></img>
