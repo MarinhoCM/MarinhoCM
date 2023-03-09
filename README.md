@@ -7,7 +7,7 @@
 <br>
 <br>
 <br>
-    <p align = "left">📚 Estudando: <strong>CakePhP, Behave, BDD e Python.</strong></p>
+    <p align = "left">📚 Estudando: <strong>CakePhP, Behave, TDD e Python.</strong></p>
     <p align = "left">😃 Sobre mim: <strong>Sou dedicado, disciplinado, curioso, comunicativo e gosto de enfrentar desafios.</strong></p>
     <p align = "left">❤ Gosto de: <strong>Surf, Animes, Artes Maciais, Academia, Música e Programação.</strong></p>
 <br>
