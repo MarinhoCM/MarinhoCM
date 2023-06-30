@@ -34,17 +34,12 @@
     Habilidades
   </h2>
 
-<img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img height="40" width="60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img height="40" width="60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 <img height="40" width="60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <img height="40" width="60" src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-<img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cakephp/cakephp-original.svg"/>
-<img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
 <img height="40" width="40" src="https://user-images.githubusercontent.com/54821932/135734552-aa00d62e-973b-4280-8017-c2ecc13e3692.png"/><br>
 
 <img align="center" height="150" width="150" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png"/>
