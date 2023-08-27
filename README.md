@@ -1,14 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&duration=3000&lines=Olá!+Meu+nome+é+Cauã+Marinho+de+Sousa;Tenho+19+anos;Back-End+Developer;Seja+bem+vindo+ao+meu+perfil!:%29)](https://git.io/typing-svg)
 <div align="center">
-<br>
-<img align="center" height = "200" width="220"style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/git.gif"></img>
+    <br>
+    <img align="center" height = "200" width="220"style="display: inline_block" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/git.gif"></img>
 </div>
 <br>
 <br>
 <br>
-<center>
-    👋<bold>Bem-vindo ao meu perfil!<bold>
+    👋 Bem-vindo ao meu perfil!
 
 ## Sobre Mim
 Olá! Eu sou Cauã Marinho, um entusiasta da tecnologia com paixão por desenvolvimento de software e resolução de problemas complexos. Minha jornada de aprendizado abrange uma variedade de áreas, desde as metodologias de desenvolvimento até as ferramentas mais modernas. Com uma mente curiosa e uma abordagem disciplinada, estou sempre pronto para mergulhar de cabeça em novos desafios.
@@ -29,7 +28,6 @@ Enquanto a programação é minha paixão, há muito mais que me define:
 - **Compartilhando Conhecimento**: Estou animado não apenas em absorver conhecimento, mas também em compartilhá-lo. Vamos aprender juntos!
 
 "O código é poesia, e cada projeto é um novo capítulo na minha jornada emocionante."
-</center>
 <br>
 <br>
 <p align="center">
