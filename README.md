@@ -53,13 +53,5 @@ Enquanto a programação é minha paixão, há muito mais que me define:
 
 <img align="center" height="150" width="150" src="https://github.com/MarinhoCM/MarinhoCM/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png"/>
 <br>
-<b><h2>Ferramentas que Utilizo</h2></b>
-<img height="40" width="60" src = "https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667">
-<img height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /> 
-<br>
-<br>
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MarinhoCM}/count.svg" /></p> 
 <br></div>
 <img width=100% height="60%" src="https://capsule-render.vercel.app/api?type=waving&color=000000height=120&section=footer"/>
